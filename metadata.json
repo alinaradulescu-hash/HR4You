@@ -1,0 +1,6 @@
+{
+  "name": "HR4You — Specialistul tău în managementul Capitalului Uman",
+  "description": "Soluția de In-House HR: consultantul tău dedicat pe bază de abonament lunar agreat.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
